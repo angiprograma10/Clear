@@ -1,0 +1,4 @@
+# Crear una variable, modificarla y mostrar su valor
+Accion: "Crear monedas con valor 100"
+Accion: "Sumar 50 a monedas"
+Accion: "Mostrar el valor de monedas"
